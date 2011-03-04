@@ -52,3 +52,11 @@ html {
     height: 100.1% !important;
     width: 100.1% !important;
 }
+
+html {
+    font-family: Helvetica;
+}
+
+a {
+    text-decoration: inherit;
+}
